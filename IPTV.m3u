@@ -25,6 +25,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
+#EXTINF:-1 tvg-id="astro" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",CELESTIAL CLASSIC MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+
+#EXTINF:-1 tvg-id="astro" tvg-name="CELESTIAL MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",CELESTIAL MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
 #EXTINF:-1 tvg-id="astro" tvg-name="CINEMAX" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -38,6 +52,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+#EXTINF:-1 tvg-id="astro" tvg-name="HBO FAMILY" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",HBO FAMILY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+#EXTINF:-1 tvg-id="astro" tvg-name="HBO HITS" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+#EXTINF:-1 tvg-id="astro" tvg-name="HITS MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",HITS MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="astro" tvg-name="NICKELODEON" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",NICKELODEON
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -66,6 +101,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+
+#EXTINF:-1 tvg-id="astro" tvg-name="TVN MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",TVN MOVIES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 tvg-id="astro" tvg-name="WARNER TV" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
