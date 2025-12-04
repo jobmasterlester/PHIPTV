@@ -862,14 +862,14 @@ https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/in
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
+********** WorldTV **********
+
 #EXTINF:-1 tvg-id="worldtv" tvg-name="MN+" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",MN+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-
-********** WorldTV **********
 
 #EXTINF:-1 tvg-id="worldtv" tvg-name="MNX" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",MNX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
