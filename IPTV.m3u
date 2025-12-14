@@ -8,7 +8,7 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b0e855d7fb11721129c13d4c1b645e10:2ddd4b255921d5c2a331e5f10f302be0
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
 #EXTINF:-1 tvg-id="astro" tvg-name="AXN" tvg-logo="https://play-lh.googleusercontent.com/mJIaH95sdg0iL8-NypWfiStkyHEjGXFo7l5pfvQsHwM0wHadCGay-8fE6pjvytGVwUyQo74S-Elq--fQSRYqJQ" group-title="🇲🇾 ASTRO",AXN
