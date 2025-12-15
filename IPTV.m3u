@@ -673,6 +673,76 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/rwcf8uax9l/out/v1/13
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
 
+#EXTINF:-1 tvg-id="primevideo" tvg-name="CARTOON NETWORK" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",CARTOON NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="DISNEY CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",DISNEY CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="EUROSPORT 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",EUROSPORT 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=15b830e0b73b0b8ef99786121997d5f5:51646d5e500648c6a4e319c7861e963f
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/at8teepvrn/out/v1/ab8d59a847f046c88f07a7f3d115d7fe/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="EUROSPORT 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",EUROSPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a98f8e748e2e14057e9f99ac8e3a025:a0d9aa1a419ced1f9f4c2804b92ee0f7
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/crenwml9jf/out/v1/09518f97387b4ea5a69279a1aa1daf0a/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="LOVE NATURE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",LOVE NATURE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="NBA TV" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",NBA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="TNT SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="TNT SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",TNT SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="TNT SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",TNT SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="TNT SPORTS 4" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO",TNT SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
 ********** WorldTV **********
 
 #EXTINF:-1 tvg-id="worldtv" tvg-name="ANIPLUS" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",ANIPLUS
