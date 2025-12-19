@@ -812,10 +812,11 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 ********** TFCMovies **********
 
-#EXTINF:-1 tvg-id="tfcmovie" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🇵🇭 CIGNALPLAY",SANGGANO, SANGGAGO'T SANGGWAPO
+#EXTINF:-1 tvg-id="tfcmovie" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🇵🇭 TFCMOVIE",SANGGANO, SANGGAGO'T SANGGWAPO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a810652446911ec9ac00137550b00c0:c561702961b59c4c5e2de21a29b3fff2
 https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/manifest.mpd
 
 #EXTM3U billed-msg="🇵🇭 PHIPTV"
