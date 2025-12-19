@@ -812,7 +812,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 ********** TFCMovies **********
 
-#EXTINF:-1 tvg-id="tfcmovie" tvg-name=SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🇵🇭 CIGNALPLAY",SANGGANO, SANGGAGO'T SANGGWAPO
+#EXTINF:-1 tvg-id="tfcmovie" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🇵🇭 CIGNALPLAY",SANGGANO, SANGGAGO'T SANGGWAPO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
