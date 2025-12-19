@@ -604,6 +604,8 @@ https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-id="converge" tvg-name="GMA 7" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7 (TEST 2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNYXJjZWxvIiwiZXhwIjoxNzY2MTgxNTM0fQ.71V-xnNZWTO6NvU769vLHp4_06fx2UeiAt2lqSoVYSI
 
 ********** IwanTV **********
