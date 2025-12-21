@@ -608,6 +608,12 @@ https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="converge" tvg-name="GMA 73" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7 (TEST 3)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
+https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnaXRhbWVtNjkzIiwiZXhwIjoxNzY2NzM4Njg2fQ.SBP6Mdyo87XkmWbckGLejbo1XMnMwz7csQNbOrDvTP8
+
 ********** IwantMovies **********
 
 #EXTINF:-1 tvg-id="iwantmovies" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTMOVIES",SANGGANO, SANGGAGO'T SANGGWAPO
