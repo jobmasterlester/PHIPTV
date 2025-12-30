@@ -284,6 +284,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default/index.mpd
 
+#EXTINF:-1 tvg-id="cignalplay" tvg-name="KAPATID CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",KAPATID CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf670bed2ea4905a114557e90e7ffb6:​616059bec8dfb27f3524b7e7c31b6cff
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mpd
+
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="KBS WORLD" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",KBS WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -584,6 +591,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="cignalplay" tvg-name="WILL TV" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",WILL TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1773d6f982242cdb0f694546a3db26f:ae9a90dbea78f564eb98fe817909ec9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="WARNER TV" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
