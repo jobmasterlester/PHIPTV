@@ -613,11 +613,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY4LvT86fM74ocVChyFS93HUe9OnZTxGvJPcGpQT0Y5Pwg==&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&userid=1878702116443&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1013243316&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="GTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GTV (TEST)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&userid=1590268675436&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
 #EXTINF:-1 tvg-id="converge" tvg-name="KAPAMILYA CHANNEL HD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",KAPAMILYA CHANNEL HD (TEST)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
