@@ -599,57 +599,6 @@ https://abslive.akamaized.net/dash/live/2028189/kc3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
 
-********** WorldTV: MYTV ManaMana **********
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="GLOBAL TREKKER" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",GLOBAL TREKKER
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/GlobalTrekker/index.mpd
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="KCM" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",KCM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/Kcm/index.mpd
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="ONE HD" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ONE HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/OneHD/index.mpd
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ACTION" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ROCK ACTION
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/RockAction/index.mpd
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ROCK ENTERTAINMENT
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/RockEntertainment/index.mpd
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="SPOTV NOW" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",SPOTV NOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/SpotvNow/index.mpd
-
-#EXTINF:-1 tvg-id="mytv" tvg-name="ZOOMOO" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ZOOMOO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/ZooMoo/index.mpd
-
 ********** WorldTV: PrimeVideo **********
 
 #EXTINF:-1 tvg-id="primevideo" tvg-name="AMAZON MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",AMAZON MOVIES
